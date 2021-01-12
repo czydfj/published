@@ -1,3 +1,6 @@
-# Y.Media Lab主要期刊论文
-# Y.Media Lab主要会议论文
-# Y.Media Lab在研科技项目
+# Y.Media Lab
+## 我们的研究方向
+### 我们的研究方向是setnenetnwetne
+## 我们的论文和成果
+### 视频图像识别和生成
+### 视频水印
